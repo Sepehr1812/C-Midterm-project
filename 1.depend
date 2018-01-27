@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513603450 source:d:\mine\uni\computer\class\homeworks\hw6\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
